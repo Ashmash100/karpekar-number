@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: rgb(235, 235, 235);
+    padding-top: 15em;;
+}
+
+.container {
+    margin-top: 15em;;
+    width: 60%;
+    margin: auto;
+}
+
+#enterno {
+    width: 20%;
+    margin-right: 0.3em;
+}    
+
+#textdiv{
+    margin-top: 3em;;
+}
+
